@@ -56,7 +56,6 @@ const GlobalStyle = createGlobalStyle`
     font-size: 62.5%;
     width: 100%;
     min-height: 100vh;
-    background-color: #252429;
   }
 
   * {
